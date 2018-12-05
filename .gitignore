@@ -3,3 +3,9 @@
 ################################################################################
 
 /App/GigHub/bin
+/App/GigHub/obj/Debug
+/App/GigHub.IntegrationTests/bin/Debug
+/App/GigHub.IntegrationTests/obj/Debug
+/App/GigHub.Tests/bin/Debug
+/App/GigHub.Tests/obj/Debug
+/App/.vs/GigHub/v15
